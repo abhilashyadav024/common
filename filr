@@ -1,0 +1,12 @@
+##!/bin/bash
+#LOG_FILE=/tmp/roboshop.log
+#rm -f ${LOG_FILE}
+
+
+#!/bin/bash
+i=1
+while [ $i -le 100 ]
+do
+   echo $i
+   i=$(($i+1))
+done

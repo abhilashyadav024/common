@@ -1,3 +1,3 @@
 #!bin/bash
 ADD=((2+3))
-echo ADD = ${ADD}
+echo ADD =${ADD}
